@@ -1,0 +1,9 @@
+npm i react-icons
+npm i --save-dev eslint
+---------------- eslint --init
+
+npm init @eslint/config
+npm install eslint-config-standard
+npm install prettier@^2.5.1  
+
+npm run lint
